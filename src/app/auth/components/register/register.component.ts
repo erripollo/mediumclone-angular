@@ -2,7 +2,7 @@ import { Component } from "@angular/core";
 
 @Component({
     selector: 'mc-register',
-    templateUrl: './registr.component.html',
+    templateUrl: './register.component.html',
     styleUrls: ['./register.component.scss']
 })
-export class RegisterComponent {}
+export class RegisterComponent { }
